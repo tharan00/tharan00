@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharanya</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate cloud enthusiast</h3>
 
 - 🌱 I’m currently learning **Cloud computing and big data**
 
