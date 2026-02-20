@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud computing and big data**
 
-- 📫 How to reach me **richcuisine7777@gmail.com**
+- 📫 How to reach me **tharanyajayabas@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
